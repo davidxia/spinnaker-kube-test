@@ -1,2 +1,2 @@
 # spinnaker-kube-test
-hi there
+hi there foo
