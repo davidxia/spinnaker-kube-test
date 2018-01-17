@@ -1,2 +1,2 @@
 # spinnaker-kube-test
-hi there foobar bax
+hi there foobar baz
