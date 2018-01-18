@@ -4,7 +4,7 @@ metadata:
   name: dxia-spinnaker-nginx
   namespace: dxia
   labels:
-    foo: bar
+    foo: baz
 spec:
   containers:
   - name: nginx
