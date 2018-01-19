@@ -5,7 +5,6 @@ metadata:
   namespace: dxia
   labels:
     foo: baz
-    a: b
 spec:
   containers:
   - name: nginx
